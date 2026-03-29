@@ -1,0 +1,51 @@
+tweet_id,timestamp,handle,tweet_text,channel,expected_category,priority
+001,2024-03-15 08:12:00,@honeybee_home,"@fablecandles hi!! ordered the solstice set 6 days ago and still no shipping confirmation 😭 getting nervous",mention,order_status,medium
+002,2024-03-15 08:34:00,@rina.m,"@fablecandles my package arrived and the glass was completely shattered. this was a gift for my mom's birthday i'm devastated",mention,damaged_product,high
+003,2024-03-15 09:01:00,@thevibeguru,"@fablecandles do you ship to Canada??",mention,shipping_policy,low
+004,2024-03-15 09:15:00,@jess_interiors,"@fablecandles we're a boutique hotel in Scottsdale and would love to carry your candles in our rooms + gift shop. who do i contact?",mention,wholesale_inquiry,medium
+005,2024-03-15 09:22:00,@plantmom.pdx,"@fablecandles the amber + moss scent has been discontinued?? please tell me this isn't true i buy 4 a year",mention,product_availability,medium
+006,2024-03-15 09:45:00,@ggrace__,"@fablecandles ordered the wrong size by accident literally right after i placed it. can you change it??",mention,order_modification,high
+007,2024-03-15 10:03:00,@marcos.at.home,"@fablecandles what's the burn time on the large vessel candles",mention,product_question,low
+008,2024-03-15 10:17:00,@sunflwrstudio,"@fablecandles hi! i'm a lifestyle photographer and would love to collab / shoot some content for you. where do i send my portfolio?",mention,press_collab,low
+009,2024-03-15 10:44:00,@trish_k,"@fablecandles this is the third time i've ordered and the wick keeps drowning before i get halfway through. really disappointed for the price point",mention,product_defect,high
+010,2024-03-15 11:02:00,@leilani.h,"@fablecandles i never received a refund and it's been 12 days since you said it was processed. i want this escalated",mention,refund_escalation,urgent
+011,2024-03-15 11:20:00,@cozybydesign,"@fablecandles do your candles contain any animal-derived ingredients? asking for a vegan friend 🕯️",mention,product_question,low
+012,2024-03-15 11:35:00,@ntombi_m,"@fablecandles OBSESSED with the new spring collection. the lilac + rain one made me emotional lol. you guys never miss",mention,positive_feedback,low
+013,2024-03-15 11:58:00,@rbk.interiors,"@fablecandles placed an order 3 weeks ago, never arrived, tracking just says 'in transit'. i've emailed twice with no response. this is unacceptable",mention,lost_package,urgent
+014,2024-03-15 12:10:00,@heymikaylaa,"@fablecandles can i use a promo code on a sale item",mention,promo_question,low
+015,2024-03-15 12:33:00,@dadswhobake,"@fablecandles my wife got me the hearth set for our anniversary and i didn't know a candle could make a room feel this different. thank you",mention,positive_feedback,low
+016,2024-03-15 13:05:00,@sofiavc__,"@fablecandles i need to change my shipping address i just moved and my order hasn't shipped yet PLEASE",mention,order_modification,high
+017,2024-03-15 13:22:00,@the.real.renee,"@fablecandles your checkout is broken on safari mobile. kept getting an error at payment and had to switch browsers",mention,technical_issue,medium
+018,2024-03-15 13:47:00,@westcoastliving,"@fablecandles when is the summer collection dropping 👀",mention,product_inquiry,low
+019,2024-03-15 14:10:00,@nadia.tran.home,"@fablecandles i requested a return 2 weeks ago and sent the item back. still no refund or confirmation email. starting to get frustrated",mention,return_status,high
+020,2024-03-15 14:28:00,@mmcalister__,"@fablecandles the linen + cedar one is literally the reason i get out of bed. that's all. that's the tweet.",mention,positive_feedback,low
+021,2024-03-15 14:50:00,@brooklynbasedbuyer,"@fablecandles hi can i get a gift receipt emailed separately? forgot to select that at checkout",mention,order_question,low
+022,2024-03-15 15:13:00,@camille.b.home,"@fablecandles do you do custom scents or private label for events? we're planning a wedding",mention,custom_order,medium
+023,2024-03-15 15:30:00,@tylerknox_,"@fablecandles i've been a customer for 3 years and this last order was honestly below your usual quality. the scent throw was weak and it tunneled immediately",mention,product_defect,high
+024,2024-03-15 15:48:00,@simplyluxehome,"@fablecandles is there a subscription option? i go through these so fast",mention,product_inquiry,low
+025,2024-03-15 16:05:00,@priyanka.w,"@fablecandles my order shows delivered but it's not here. checked with neighbors, nothing. this is so stressful",mention,lost_package,urgent
+026,2024-03-15 16:20:00,@dev.null.home,"@fablecandles do you ship internationally?",mention,shipping_policy,low
+027,2024-03-15 16:45:00,@margot.files,"@fablecandles just lit the hearth set for the first time. my whole apartment smells incredible. genuinely the best purchase i've made this year",mention,positive_feedback,low
+028,2024-03-15 17:00:00,@lucasbny,"@fablecandles what's the difference between the medium and large vessel?",mention,product_question,low
+029,2024-03-15 17:15:00,@cass.makes.things,"@fablecandles i'm a ceramics artist and i'd love to propose a collab — custom vessels for a limited edition run. who should i talk to?",mention,press_collab,medium
+030,2024-03-15 17:30:00,@petra.m.home,"@fablecandles i ordered as a gift for someone in a different state — can i include a handwritten note? is there gift wrapping?",mention,order_question,low
+031,2024-03-15 17:50:00,@westelmwife,"@fablecandles what wax do you use? trying to avoid paraffin",mention,product_question,low
+032,2024-03-15 18:05:00,@chloe.interiors,"@fablecandles do you have a rewards or loyalty program?",mention,product_inquiry,low
+033,2024-03-15 18:20:00,@rubyandco__,"@fablecandles hi! placed an order yesterday and realized i put the wrong email at checkout. can you update it so i can get my confirmation?",mention,order_question,medium
+034,2024-03-15 18:35:00,@home.by.hana,"@fablecandles the spring collection packaging is honestly art. just wanted to say that",mention,positive_feedback,low
+035,2024-03-15 18:50:00,@felix.at.home,"@fablecandles i've been buying your candles for two years and this is the first time i've had an issue — the wick arrived uncentered and burned unevenly. first bad one but still",mention,product_defect,medium
+036,2024-03-15 19:05:00,@mindy.tran,"@fablecandles my roommate and i both ordered separately this week and neither of us have gotten shipping confirmations. is something going on with fulfillment?",mention,order_status,medium
+037,2024-03-15 19:25:00,@_.reallytired,"@fablecandles wow. okay.",mention,ambiguous,medium
+038,2024-03-15 19:40:00,@not.mad.just.,"@fablecandles so i guess my package just lives at the post office now? cool cool cool",mention,ambiguous,high
+039,2024-03-15 19:55:00,@cynical.buyer,"@fablecandles another candle another disappointment. but sure keep posting the aesthetic flatlays",mention,ambiguous,high
+040,2024-03-15 20:10:00,@vee.at.home,"@fablecandles my package arrived damaged AND i still haven't gotten the refund from my order two weeks ago. genuinely at a loss here",mention,multi_issue,urgent
+041,2024-03-15 20:25:00,@sunroom.daily,"@fablecandles the scent is absolutely beautiful but the jar cracked during the first burn. is this a known issue or did i do something wrong?",mention,multi_issue,high
+042,2024-03-15 20:40:00,@interiors.eth,"@fablecandles been waiting 3 weeks, emailed support twice, no response. love the brand but this is making it really hard to stay a customer",mention,multi_issue,urgent
+043,2024-03-15 20:55:00,@grantparkguy,"@fablecandles candle arrived. smells like a candle. shipping was fine i guess",mention,ambiguous,low
+044,2024-03-15 21:10:00,@theo.at.desk,"@fablecandles moss + amber vs linen + cedar — which would you recommend for a home office? i can never decide",mention,product_question,low
+045,2024-03-15 21:25:00,@mira.b__,"@fablecandles this is embarrassing but i think i ordered the same candle twice by accident. can you check my order? i placed two in the last 10 mins",mention,order_modification,high
+046,2024-03-15 21:40:00,@homesick.always,"@fablecandles i moved abroad and your candles are literally the only thing that makes my apartment feel like home. that's all. carry on.",mention,positive_feedback,low
+047,2024-03-15 21:55:00,@press.for.less,"@fablecandles hi i'm a journalist writing a piece on sustainable home fragrance brands for a major publication. can i get a comment or press contact?",mention,press_collab,medium
+048,2024-03-15 22:10:00,@nneka.home,"@fablecandles ordered the solstice set as a gift, it arrived fine but the recipient says it smells nothing like the description online. is there a return process for gifts?",mention,multi_issue,medium
+049,2024-03-15 22:30:00,@just.eleanor,"@fablecandles not sure if this is the right place to ask but i think i was charged twice for the same order",mention,ambiguous,urgent
+050,2024-03-15 22:50:00,@the.real.tom.k,"@fablecandles loved the candle. hated waiting 2 weeks for it. will probably order again tbh",mention,ambiguous,medium
